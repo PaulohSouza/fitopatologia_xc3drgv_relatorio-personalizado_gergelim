@@ -185,7 +185,7 @@ shinyServer(function(input,output){
                      color = "Variedades", palette = "Paired",
                      error.plot = "pointrange",
                      position = position_dodge(0.5), facet.by = 
-                       "Variedades", xlab = "Tratamentos", ylab = "Altura (cm)")
+                       "Variedades", xlab = "Tratamentos", ylab = "Número de cápsulas")
     
     p
     g <- p + geom_text(data = CAPSULAS_LETRAS,label = CAPSULAS_LETRAS$label)
