@@ -1,0 +1,13 @@
+name: fitopatologia_relatorio-personalizado_gergelim
+title: fitopatologia_relatorio-personalizado_gergelim
+username:
+account: fmtscience
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7245366
+bundleId: 6380508
+url: https://fmtscience.shinyapps.io/fitopatologia_relatorio-personalizado_gergelim/
+when: 1665166188.74234
+lastSyncTime: 1665166188.74234
+asMultiple: FALSE
+asStatic: FALSE
